@@ -1,3 +1,10 @@
+/*
+Biped bot 
+ITSP Team 152,IIT Bombay
+Author:Saurabh Chavan
+Co-author:Shubham Yadav,Ketan Shirokha
+*/
+
 PFont f;
 PImage img;
 int wid=60,hei=50;

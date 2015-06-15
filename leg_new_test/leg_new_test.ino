@@ -1,3 +1,10 @@
+/*
+Biped bot 
+ITSP Team 152,IIT Bombay
+Author:Saurabh Chavan
+Co-author:Shubham Yadav,Ketan Shirokha
+*/
+
 #include <Servo.h>
 
 Servo leftbot;
